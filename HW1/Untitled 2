@@ -1,0 +1,52 @@
+2's complement 5 = 0101;
+ 2's complement -5 = 1011;
+ (5 - 3) = 0010;
+ ASCII CHAR B = 1000010;
+ ASCII CHAR 5 = 110101;
+ char A = 2 bytes;
+ 2's complement number 100 = 1 byte;
+ Represent a ascii char = 2 bytes;
+ 9: 4 bytes
+ 10: 8 bytes.
+ 11: 8 bytes.
+ 12: 
+  1: decimal to binary
+  
+     20 = 10100;
+     50 = 110010;
+  	 100 = 1100100;
+  	 200 = 11001000;
+  	 
+  2: decimal to octal
+  
+  	 20 = 24;
+  	 50 = 62;
+  	 100 = 144;
+  	 200 = 310;
+  	 
+  3: decimal to hex
+  
+  	 20 = 14;
+  	 50 = 32;
+  	 100 = 64;
+  	 200 = c8;
+  	 
+  4: binary to decimal
+  
+     10110110 = 182;
+     11011101 = 221;
+     
+  5: binary to hex 
+  
+  	 10101110 = AE;
+  	 11001100 = CC;
+  	 
+  6: hex to binary 
+  
+  	 1FBA = 1111110111010;
+  	 CD23 = 1100110100100011;
+  	 
+  7: hex to decimal
+  
+  	 23FD = 9213;
+  	 13AB = 5035;
